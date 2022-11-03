@@ -1,0 +1,60 @@
+Case Study 1 : How Does a Bike-Share Navigate Speedy Success?
+
+1- "Data Collection" : Import data (.csv file) in MSSQL Server
+	a) - Right click database > Task > Import Data > Data source : select Flat Files > file name : click browse and select > click Next > click next > Destination : SQL Server Native CLient 11.0 >  click Next > click Next > finish
+
+2- "Combine Data in single table"
+	a) - First rename columns so that its consistant in all tables. Keep column names of Q1_2022 in all tables.
+	b) - remove columns not required in all tables
+	c) -  append all tables into 1 table 
+
+3- Data Cleaning and add new columns
+	a). member_casual column has 4 type of values member,subscriber, customer, casual , it have only two Member and Casual. Subscriber should be changed to Member and customer should be changed to casual.
+	b). Adding some additional columns like , Day, month, year 
+	c). add ride_length to the entire column
+	d). Some trip duration are negative , will delete those rows.
+
+4- DESCRIPTIVE ANALYSIS
+
+-- mean of ride length 
+select AVG(cast(ride_length_sec as float)) 
+from all_trips;
+-- 1477.7505216909
+
+--max_ride length
+select MAX(ride_length_sec)
+from all_trips;
+-- 9387024
+
+select MIN(ride_length_sec)
+from all_trips;
+-- 0
+
+--mode
+SELECT TOP 1 day_of_week
+FROM   all_trips
+GROUP  BY [day_of_week]
+ORDER  BY COUNT(*) DESC
+-- 3
+
+
+5- Summary of Analysis
+	a). Complete analysis includes running various queries to perform calculations to calculate mean, median, max and min of rides .
+	b). The trend i can see is there are less casual riders but they drive for long but not frequently whereas member riders are more in number and they ride frequently but for less duration.
+	c). final table is prepared for sharing visualization
+
+
+6- Share vizualization and Key Findings:
+	a).complete visualization is done in Tableau by importing data in tableau. 		link to the dashboard is	https://public.tableau.com/shared/NZCTQ2WZY?:display_count=n&:origin=viz_share_link
+
+	b). Key findings :  Annual Members who are 3 times in number compared to 	Casual riders use frequently for short duration whereas Casual use for long 	duration but not frequently.
+
+
+7- ACT : 
+	Top three recommendations based on analysis
+
+	Convert Casual riders to Annual rider : Come up with a membership plan to 	attract casual members, which is profitable for Cyclistic as well.
+
+	Target new customers : Members are those who ride less duration , less 	distance but frequently or on daily basis . so, we can connect win new 	audience who ride less duration but frequently like office goers and try to 	make them members.
+
+	We can target casual members with a campaign and attractive membership plans 	in the month of July , Aug, Sept that is 3rd Quarter
