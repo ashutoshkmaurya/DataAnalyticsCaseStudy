@@ -1,0 +1,20 @@
+trip_id,start_time,end_time,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+25223640,01-10-2019 00:01,01-10-2019 00:17,2215,940,20,Sheffield Ave & Kingsbury St,309,Leavitt St & Armitage Ave,Subscriber,Male,1987
+25223641,01-10-2019 00:02,01-10-2019 00:06,6328,258,19,Throop (Loomis) St & Taylor St,241,Morgan St & Polk St,Subscriber,Male,1998
+25223642,01-10-2019 00:04,01-10-2019 00:18,3003,850,84,Milwaukee Ave & Grand Ave,199,Wabash Ave & Grand Ave,Subscriber,Female,1991
+25223643,01-10-2019 00:04,01-10-2019 00:43,3275,"2,350.00",313,Lakeview Ave & Fullerton Pkwy,290,Kedzie Ave & Palmer Ct,Subscriber,Male,1990
+25223644,01-10-2019 00:04,01-10-2019 00:35,5294,"1,867.00",210,Ashland Ave & Division St,382,Western Ave & Congress Pkwy,Subscriber,Male,1987
+25223645,01-10-2019 00:04,01-10-2019 00:10,1891,373,156,Clark St & Wellington Ave,226,Racine Ave & Belmont Ave,Subscriber,Female,1994
+25223646,01-10-2019 00:04,01-10-2019 00:22,1061,"1,072.00",84,Milwaukee Ave & Grand Ave,142,McClurg Ct & Erie St,Subscriber,Female,1991
+25223647,01-10-2019 00:04,01-10-2019 00:29,1274,"1,458.00",156,Clark St & Wellington Ave,463,Clark St & Berwyn Ave,Subscriber,Male,1995
+25223648,01-10-2019 00:05,01-10-2019 00:29,6011,"1,437.00",156,Clark St & Wellington Ave,463,Clark St & Berwyn Ave,Subscriber,Female,1993
+25223649,01-10-2019 00:05,01-10-2019 02:23,2957,"8,306.00",336,Cottage Grove Ave & 47th St,336,Cottage Grove Ave & 47th St,Customer,,
+25223650,01-10-2019 00:05,01-10-2019 00:37,2564,"1,925.00",77,Clinton St & Madison St,506,Spaulding Ave & Armitage Ave,Subscriber,Male,1977
+25223651,01-10-2019 00:07,01-10-2019 00:19,3601,748,198,Green St & Madison St,331,Halsted St & Clybourn Ave,Subscriber,Female,1980
+25223652,01-10-2019 00:08,01-10-2019 00:26,711,"1,039.00",66,Clinton St & Lake St,16,Paulina Ave & North Ave,Customer,Male,1994
+25223653,01-10-2019 00:08,01-10-2019 00:29,5005,"1,224.00",240,Sheridan Rd & Irving Park Rd,230,Lincoln Ave & Roscoe St,Customer,,
+25223655,01-10-2019 00:10,01-10-2019 00:15,1730,326,66,Clinton St & Lake St,88,Racine Ave & Randolph St,Subscriber,Male,1992
+25223656,01-10-2019 00:10,01-10-2019 00:16,4595,318,373,Kedzie Ave & Chicago Ave,377,Kedzie Ave & Lake St,Customer,,
+25223657,01-10-2019 00:12,01-10-2019 01:13,2958,"3,692.00",74,Kingsbury St & Erie St,402,Shields Ave & 31st St,Customer,Female,1962
+25223658,01-10-2019 00:12,01-10-2019 00:17,1489,308,289,Wells St & Concord Ln,176,Clark St & Elm St,Subscriber,Male,1992
+25223659,01-10-2019 00:13,01-10-2019 00:34,3602,"1,251.00",106,State St & Pearson St,334,Lake Shore Dr & Belmont Ave,Customer,,

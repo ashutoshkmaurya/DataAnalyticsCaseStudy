@@ -1,0 +1,20 @@
+01 - Rental Details Rental ID,01 - Rental Details Local Start Time,01 - Rental Details Local End Time,01 - Rental Details Bike ID,01 - Rental Details Duration In Seconds Uncapped,03 - Rental Start Station ID,03 - Rental Start Station Name,02 - Rental End Station ID,02 - Rental End Station Name,User Type,Member Gender,05 - Member Details Member Birthday Year
+22178529,01-04-2019 00:02,01-04-2019 00:09,6251,446,81,Daley Center Plaza,56,Desplaines St & Kinzie St,Subscriber,Male,1975
+22178530,01-04-2019 00:03,01-04-2019 00:20,6226,"1,048.00",317,Wood St & Taylor St,59,Wabash Ave & Roosevelt Rd,Subscriber,Female,1984
+22178531,01-04-2019 00:11,01-04-2019 00:15,5649,252,283,LaSalle St & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1990
+22178532,01-04-2019 00:13,01-04-2019 00:18,4151,357,26,McClurg Ct & Illinois St,133,Kingsbury St & Kinzie St,Subscriber,Male,1993
+22178533,01-04-2019 00:19,01-04-2019 00:36,3270,"1,007.00",202,Halsted St & 18th St,129,Blue Island Ave & 18th St,Subscriber,Male,1992
+22178534,01-04-2019 00:19,01-04-2019 00:23,3123,257,420,Ellis Ave & 55th St,426,Ellis Ave & 60th St,Subscriber,Male,1999
+22178535,01-04-2019 00:26,01-04-2019 00:35,6418,548,503,Drake Ave & Fullerton Ave,500,Central Park Ave & Elbridge Ave,Subscriber,Male,1969
+22178536,01-04-2019 00:29,01-04-2019 00:36,4513,383,260,Kedzie Ave & Milwaukee Ave,499,Kosciuszko Park,Subscriber,Male,1991
+22178537,01-04-2019 00:32,01-04-2019 01:07,3280,"2,137.00",211,St. Clair St & Erie St,211,St. Clair St & Erie St,Customer,,
+22178538,01-04-2019 00:32,01-04-2019 01:07,5534,"2,120.00",211,St. Clair St & Erie St,211,St. Clair St & Erie St,Customer,,
+22178539,01-04-2019 00:36,01-04-2019 00:41,4666,297,304,Broadway & Waveland Ave,232,Pine Grove Ave & Waveland Ave,Subscriber,Male,1975
+22178540,01-04-2019 00:58,01-04-2019 01:04,3735,365,37,Dearborn St & Adams St,337,Clark St & Chicago Ave,Subscriber,Male,1991
+22178541,01-04-2019 01:09,01-04-2019 01:12,6108,165,75,Canal St & Jackson Blvd,36,Franklin St & Jackson Blvd,Subscriber,Male,1990
+22178542,01-04-2019 01:13,01-04-2019 01:20,6157,443,334,Lake Shore Dr & Belmont Ave,256,Broadway & Sheridan Rd,Subscriber,Male,1989
+22178543,01-04-2019 01:18,01-04-2019 01:23,4384,293,39,Wabash Ave & Adams St,255,Indiana Ave & Roosevelt Rd,Subscriber,Male,1969
+22178544,01-04-2019 01:28,01-04-2019 01:31,4022,204,287,Franklin St & Monroe St,89,Financial Pl & Ida B Wells Dr (Temp),Subscriber,Male,1994
+22178545,01-04-2019 01:31,01-04-2019 01:35,2748,233,148,State St & 33rd St,272,Indiana Ave & 31st St,Subscriber,Female,1989
+22178546,01-04-2019 01:53,01-04-2019 02:03,5351,546,59,Wabash Ave & Roosevelt Rd,36,Franklin St & Jackson Blvd,Subscriber,Male,1958
+22178547,01-04-2019 02:10,01-04-2019 02:31,1406,"1,249.00",240,Sheridan Rd & Irving Park Rd,325,Clark St & Winnemac Ave,Customer,,

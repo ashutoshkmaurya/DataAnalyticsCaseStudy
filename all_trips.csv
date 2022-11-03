@@ -1,0 +1,19 @@
+ride_id,started_at,ended_at,rideable_type,start_station_id,start_station_name,end_station_id,end_station_name,member_casual,ride_length,day_of_week,Day,Month,Year,ride_length_sec
+22178529,01-04-2019 00:02,01-04-2019 00:09,6251,81,Daley Center Plaza,56,Desplaines St & Kinzie St,member,00:07:26,2,Monday,April,2019,446
+22178530,01-04-2019 00:03,01-04-2019 00:20,6226,317,Wood St & Taylor St,59,Wabash Ave & Roosevelt Rd,member,00:17:28,2,Monday,April,2019,1048
+22178531,01-04-2019 00:11,01-04-2019 00:15,5649,283,LaSalle St & Jackson Blvd,174,Canal St & Madison St,member,00:04:12,2,Monday,April,2019,252
+22178532,01-04-2019 00:13,01-04-2019 00:18,4151,26,McClurg Ct & Illinois St,133,Kingsbury St & Kinzie St,member,00:05:57,2,Monday,April,2019,357
+22178533,01-04-2019 00:19,01-04-2019 00:36,3270,202,Halsted St & 18th St,129,Blue Island Ave & 18th St,member,00:16:47,2,Monday,April,2019,1007
+22178534,01-04-2019 00:19,01-04-2019 00:23,3123,420,Ellis Ave & 55th St,426,Ellis Ave & 60th St,member,00:04:17,2,Monday,April,2019,257
+22178535,01-04-2019 00:26,01-04-2019 00:35,6418,503,Drake Ave & Fullerton Ave,500,Central Park Ave & Elbridge Ave,member,00:09:08,2,Monday,April,2019,548
+22178536,01-04-2019 00:29,01-04-2019 00:36,4513,260,Kedzie Ave & Milwaukee Ave,499,Kosciuszko Park,member,00:06:23,2,Monday,April,2019,383
+22178537,01-04-2019 00:32,01-04-2019 01:07,3280,211,St. Clair St & Erie St,211,St. Clair St & Erie St,casual,00:35:37,2,Monday,April,2019,2137
+22178538,01-04-2019 00:32,01-04-2019 01:07,5534,211,St. Clair St & Erie St,211,St. Clair St & Erie St,casual,00:35:20,2,Monday,April,2019,2120
+22178539,01-04-2019 00:36,01-04-2019 00:41,4666,304,Broadway & Waveland Ave,232,Pine Grove Ave & Waveland Ave,member,00:04:57,2,Monday,April,2019,297
+22178540,01-04-2019 00:58,01-04-2019 01:04,3735,37,Dearborn St & Adams St,337,Clark St & Chicago Ave,member,00:06:05,2,Monday,April,2019,365
+22178541,01-04-2019 01:09,01-04-2019 01:12,6108,75,Canal St & Jackson Blvd,36,Franklin St & Jackson Blvd,member,00:02:45,2,Monday,April,2019,165
+22178542,01-04-2019 01:13,01-04-2019 01:20,6157,334,Lake Shore Dr & Belmont Ave,256,Broadway & Sheridan Rd,member,00:07:23,2,Monday,April,2019,443
+22178543,01-04-2019 01:18,01-04-2019 01:23,4384,39,Wabash Ave & Adams St,255,Indiana Ave & Roosevelt Rd,member,00:04:53,2,Monday,April,2019,293
+22178544,01-04-2019 01:28,01-04-2019 01:31,4022,287,Franklin St & Monroe St,89,Financial Pl & Ida B Wells Dr (Temp),member,00:03:24,2,Monday,April,2019,204
+22178545,01-04-2019 01:31,01-04-2019 01:35,2748,148,State St & 33rd St,272,Indiana Ave & 31st St,member,00:03:53,2,Monday,April,2019,233
+22178546,01-04-2019 01:53,01-04-2019 02:03,5351,59,Wabash Ave & Roosevelt Rd,36,Franklin St & Jackson Blvd,member,00:09:06,2,Monday,April,2019,546

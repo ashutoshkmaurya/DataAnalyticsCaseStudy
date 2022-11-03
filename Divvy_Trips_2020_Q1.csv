@@ -1,0 +1,20 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+EACB19130B0CDA4A,docked_bike,21-01-2020 20:06,21-01-2020 20:14,Western Ave & Leland Ave,239,Clark St & Leland Ave,326,41.9665,-87.6884,41.9671,-87.6674,member
+8FED874C809DC021,docked_bike,30-01-2020 14:22,30-01-2020 14:26,Clark St & Montrose Ave,234,Southport Ave & Irving Park Rd,318,41.9616,-87.666,41.9542,-87.6644,member
+789F3C21E472CA96,docked_bike,09-01-2020 19:29,09-01-2020 19:32,Broadway & Belmont Ave,296,Wilton Ave & Belmont Ave,117,41.9401,-87.6455,41.9402,-87.653,member
+C9A388DAC6ABF313,docked_bike,06-01-2020 16:17,06-01-2020 16:25,Clark St & Randolph St,51,Fairbanks Ct & Grand Ave,24,41.8846,-87.6319,41.8918,-87.6206,member
+943BC3CBECCFD662,docked_bike,30-01-2020 08:37,30-01-2020 08:42,Clinton St & Lake St,66,Wells St & Hubbard St,212,41.8856,-87.6418,41.8899,-87.6343,member
+6D9C8A6938165C11,docked_bike,10-01-2020 12:33,10-01-2020 12:37,Wells St & Hubbard St,212,Desplaines St & Randolph St,96,41.8899,-87.6343,41.8846,-87.6446,member
+31EB9B8F406D4C82,docked_bike,10-01-2020 13:07,10-01-2020 13:12,Desplaines St & Randolph St,96,Wells St & Hubbard St,212,41.8846,-87.6446,41.8899,-87.6343,member
+A2B24E3F9C9720E3,docked_bike,10-01-2020 07:24,10-01-2020 07:29,Desplaines St & Randolph St,96,Wells St & Hubbard St,212,41.8846,-87.6446,41.8899,-87.6343,member
+5E3F01E1441730B7,docked_bike,31-01-2020 16:37,31-01-2020 16:42,Wells St & Hubbard St,212,Desplaines St & Randolph St,96,41.8899,-87.6343,41.8846,-87.6446,member
+19DC57F7E3140131,docked_bike,31-01-2020 09:39,31-01-2020 09:42,Clark St & Lake St,38,Orleans St & Merchandise Mart Plaza,100,41.886,-87.6309,41.8882,-87.6364,member
+8639202DD9FD9A41,docked_bike,07-01-2020 22:46,07-01-2020 22:50,Wilton Ave & Belmont Ave,117,Clark St & Newport St,632,41.9402,-87.653,41.9445,-87.6547,member
+9E74E3BB4FFAB93A,docked_bike,08-01-2020 16:02,08-01-2020 16:09,LaSalle St & Illinois St,181,Clinton St & Washington Blvd,91,41.8908,-87.6317,41.8834,-87.6412,member
+3B8B2E2F29B63597,docked_bike,08-01-2020 09:33,08-01-2020 09:42,Clinton St & Washington Blvd,91,LaSalle St & Illinois St,181,41.8834,-87.6412,41.8908,-87.6317,member
+0F8517F8D21287D2,docked_bike,23-01-2020 09:38,23-01-2020 09:45,Clinton St & Washington Blvd,91,LaSalle St & Illinois St,181,41.8834,-87.6412,41.8908,-87.6317,member
+15A91638FAEC2641,docked_bike,28-01-2020 20:52,28-01-2020 21:09,California Ave & Milwaukee Ave,123,Marshfield Ave & Cortland St,58,41.9227,-87.6972,41.916,-87.6689,member
+E45104F1ED756AF7,docked_bike,07-01-2020 17:06,07-01-2020 17:42,Franklin St & Jackson Blvd,36,Lincoln Ave & Diversey Pkwy,152,41.8777,-87.6353,41.9322,-87.6586,member
+219541294624C4B7,docked_bike,07-01-2020 08:38,07-01-2020 09:11,Wilton Ave & Diversey Pkwy,13,Franklin St & Jackson Blvd,36,41.9324,-87.6527,41.8777,-87.6353,member
+013862D47804B9A4,docked_bike,06-01-2020 17:16,06-01-2020 17:48,Franklin St & Jackson Blvd,36,Lincoln Ave & Diversey Pkwy,152,41.8777,-87.6353,41.9322,-87.6586,member
+00678BB4A8438651,docked_bike,06-01-2020 08:44,06-01-2020 09:21,Lincoln Ave & Diversey Pkwy,152,Franklin St & Jackson Blvd,36,41.9322,-87.6586,41.8777,-87.6353,member

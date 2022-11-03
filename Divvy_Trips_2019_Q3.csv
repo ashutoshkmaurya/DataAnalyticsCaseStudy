@@ -1,0 +1,20 @@
+trip_id,start_time,end_time,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+23479388,01-07-2019 00:00,01-07-2019 00:20,3591,"1,214.00",117,Wilton Ave & Belmont Ave,497,Kimball Ave & Belmont Ave,Subscriber,Male,1992
+23479389,01-07-2019 00:01,01-07-2019 00:18,5353,"1,048.00",381,Western Ave & Monroe St,203,Western Ave & 21st St,Customer,,
+23479390,01-07-2019 00:01,01-07-2019 00:27,6180,"1,554.00",313,Lakeview Ave & Fullerton Pkwy,144,Larrabee St & Webster Ave,Customer,,
+23479391,01-07-2019 00:02,01-07-2019 00:27,5540,"1,503.00",313,Lakeview Ave & Fullerton Pkwy,144,Larrabee St & Webster Ave,Customer,,
+23479392,01-07-2019 00:02,01-07-2019 00:22,6014,"1,213.00",168,Michigan Ave & 14th St,62,McCormick Place,Customer,,
+23479393,01-07-2019 00:02,01-07-2019 00:07,4941,310,300,Broadway & Barry Ave,232,Pine Grove Ave & Waveland Ave,Subscriber,Male,1990
+23479394,01-07-2019 00:02,01-07-2019 00:23,3770,"1,248.00",168,Michigan Ave & 14th St,62,McCormick Place,Customer,,
+23479395,01-07-2019 00:02,01-07-2019 00:28,5442,"1,550.00",313,Lakeview Ave & Fullerton Pkwy,144,Larrabee St & Webster Ave,Customer,,
+23479396,01-07-2019 00:02,01-07-2019 00:28,2957,"1,583.00",43,Michigan Ave & Washington St,195,Columbus Dr & Randolph St,Customer,,
+23479397,01-07-2019 00:02,01-07-2019 00:29,6091,"1,589.00",43,Michigan Ave & Washington St,195,Columbus Dr & Randolph St,Customer,,
+23479398,01-07-2019 00:02,01-07-2019 00:29,4116,"1,568.00",511,Albany Ave & Bloomingdale Ave,84,Milwaukee Ave & Grand Ave,Customer,,
+23479399,01-07-2019 00:03,01-07-2019 00:28,4948,"1,543.00",43,Michigan Ave & Washington St,195,Columbus Dr & Randolph St,Customer,,
+23479400,01-07-2019 00:04,01-07-2019 00:36,307,"1,967.00",24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,,
+23479401,01-07-2019 00:04,01-07-2019 00:36,2422,"1,951.00",24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,,
+23479402,01-07-2019 00:04,01-07-2019 00:37,3369,"1,961.00",24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,,
+23479403,01-07-2019 00:05,01-07-2019 00:37,4050,"1,910.00",24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,,
+23479404,01-07-2019 00:06,01-07-2019 00:33,1535,"1,647.00",43,Michigan Ave & Washington St,43,Michigan Ave & Washington St,Customer,,
+23479405,01-07-2019 00:06,01-07-2019 00:33,4722,"1,618.00",43,Michigan Ave & Washington St,43,Michigan Ave & Washington St,Customer,,
+23479406,01-07-2019 00:06,01-07-2019 00:26,2758,"1,171.00",624,Dearborn St & Van Buren St,237,MLK Jr Dr & 29th St,Subscriber,Male,1995
